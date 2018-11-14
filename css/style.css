@@ -1,0 +1,38 @@
+html{
+    height: 100%;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    border-radius: 150px
+}
+
+.pc {
+    text-align: center;
+    justify-content: center;
+    background: #212121;
+    color:white;
+    border-radius: 10px
+}
+
+.io {
+    background-image: url(../img/website-background.jpg);
+    width: 100;
+    height: auto;
+}
+
+.estemen {
+    background: transparent;
+    border-color: black;
+}
+
+.carrusel{
+    max-width: 388px;
+    height: auto;
+}
+
+   /* icon prefix focus color */
+   .input-field .prefix.active {
+     color: #000;
+   }
